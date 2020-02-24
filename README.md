@@ -1,5 +1,4 @@
-# hello-world
-Initialize My First Repository
+# To Genius out there!!!
 
 Hello~ I am from Korea and my English name is Alex. 
 I am currently English teacher in Korea and recently got interested in coding, especially in python, pygame and kivy language.
